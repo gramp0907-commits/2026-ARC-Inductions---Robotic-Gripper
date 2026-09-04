@@ -1,4 +1,4 @@
-# 2026-ARC-Inductions - Robotic Gripper
+<img width="1365" height="600" alt="image" src="https://github.com/user-attachments/assets/86a65412-4205-4404-8cc9-4fd9f0f9cb09" /># 2026-ARC-Inductions - Robotic Gripper
 This round evaluates your ability to model functional mechanisms in CAD and to validate a structural design under load.
 
 ## Task 1: Robotic Gripper Mechanism
@@ -29,3 +29,7 @@ If you update your Drive folder after the pull request is open for example, by a
 
 In every version of the link that you update, you can write down what you added, what challenges you faced and how you learnt new things, this will increase your chances significantly, if you just submit the deliverables, you give the reviewer lesser interest in going through your work.
 ---
+## Submission Details
+* **Name:** G. Ram Prasanna
+* **ID:** 2025A4PS1209H
+* **Google Drive Link**: https://drive.google.com/drive/folders/1SD3vSPOs39iSwDO0b_0IWJLdOxnWUHnA?usp=drive_link
